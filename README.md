@@ -1,4 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I am Hyeonwoo Do
+- 🔭 I’m a Ph.D. student in Economics at University at Albany, the State University of New York
+- 🌱 My research fields are Health Economics, Environmental and Energy Economics, and Empirical IO
 
 <!--
 **HyeonwooDo/HyeonwooDo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
